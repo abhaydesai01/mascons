@@ -141,7 +141,7 @@ const Navbar = () => {
                 alt="company-logo"
                 height={700}
                 width={700}
-                className="h-auto w-[70%] md:w-[70%] lg:w-[50%]"
+                className="h-auto w-[80%] md:w-[80%] lg:w-[60%]"
               />
             </Link>
           </div>
