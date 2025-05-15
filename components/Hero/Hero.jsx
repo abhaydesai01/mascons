@@ -1,7 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -31,21 +31,20 @@ const Hero = () => {
           variants={containerVariants}
         >
           <motion.h1
-            className="text-black text-center text-3xl md:text-5xl lg:text-6xl font-semibold"
+            className="text-black text-center text-3xl md:text-4xl lg:text-5xl font-semibold"
             variants={fadeInUpVariants}
           >
             Innovative Solutions,
             <br />
-            <span className="text-primary-color">Seamless Trade Finance</span>
+            <span className="text-primary-color text-2xl md:text-3xl lg:text-4xl">Tailored Platforms. White-Labeled Power Solutions</span>
           </motion.h1>
 
           <motion.p
             className="text-black text-center md:text-lg lg:w-[50%]"
             variants={fadeInUpVariants}
           >
-            Mascons offers forward-thinking digital solutions that streamline
-            global trade finance processes. By combining cutting-edge technology
-            with deep financial insights, we empower businesses to optimize
+            Mascons delivers forward-thinking, white-labeled digital solutions. 
+            By combining cutting-edge technology with deep financial insights, we empower businesses to optimize
             transactions, enhance security, and drive efficiency in
             international trade.
           </motion.p>
