@@ -60,52 +60,6 @@ const page = () => {
           />
         </div>
       </div>
-
-      {/* Statistics Section */}
-      <div className="max-w-7xl mx-auto px-4 h-auto">
-        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-16 mb-16">
-          {/* 1 */}
-          <div className="flex flex-col justify-start items-start gap-y-2 border bg-gray-50 rounded-2xl px-6 py-8">
-            <span>
-              <PiUsersThreeLight size={30} />
-            </span>
-            <p className="text-xl font-semibold">45+ million</p>
-            <p className="text-md text-gray-700 w-48">
-              Personal Customers globally
-            </p>
-          </div>
-          {/* 2 */}
-          <div className="flex flex-col justify-start items-start gap-y-2 border bg-gray-50 rounded-2xl px-6 py-8">
-            <span>
-              <AiOutlineGlobal size={30} />
-            </span>
-            <p className="text-xl font-semibold">100+ Countries</p>
-            <p className="text-md text-gray-700 w-48">
-              Global Presence in more than 100 countries.
-            </p>
-          </div>
-          {/* 3 */}
-          <div className="flex flex-col justify-start items-start gap-y-2 border bg-gray-50 rounded-2xl px-6 py-8">
-            <span>
-              <FaRegHandshake size={30} />
-            </span>
-            <p className="text-xl font-semibold">500,000+</p>
-            <p className="text-md text-gray-700 w-48">
-              Business Partners & Collaborations worldwide.
-            </p>
-          </div>
-          {/* 4 */}
-          <div className="flex flex-col justify-start items-start gap-y-2 border bg-gray-50 rounded-2xl px-6 py-8">
-            <span>
-              <RiSecurePaymentLine size={30} />
-            </span>
-            <p className="text-xl font-semibold">Top-Tier Security</p>
-            <p className="text-md text-gray-700 w-48">
-              Leading the industry with cutting-edge security solutions.
-            </p>
-          </div>
-        </div>
-
         {/* ── FOUNDERS SECTION ── */}
         <section className="max-w-7xl mx-auto px-4 py-12">
       <h2 className="text-3xl font-extrabold text-gray-900 mb-8">Our Founders</h2>
