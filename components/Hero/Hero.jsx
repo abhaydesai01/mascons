@@ -36,17 +36,15 @@ const Hero = () => {
           >
             Innovative Solutions,
             <br />
-            <span className="text-primary-color text-2xl md:text-3xl lg:text-4xl">Tailored Platforms. White-Labeled Power Solutions</span>
+            <span className="text-primary-color text-2xl md:text-3xl lg:text-4xl">Tailored Fintech Platforms. Built to Launch.</span>
           </motion.h1>
 
           <motion.p
             className="text-black text-center md:text-lg lg:w-[50%]"
             variants={fadeInUpVariants}
           >
-            Mascons delivers forward-thinking, white-labeled digital solutions. 
-            By combining cutting-edge technology with deep financial insights, we empower businesses to optimize
-            transactions, enhance security, and drive efficiency in
-            international trade.
+            At Mascons, we specialize in building white-labeled fintech solutions customized to your needs—so you can focus on growing, 
+            not building.
           </motion.p>
 
           <motion.div
