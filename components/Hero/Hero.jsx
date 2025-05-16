@@ -53,7 +53,7 @@ const Hero = () => {
           >
             <Link href="/contact">
               <button className="bg-primary-color shadow-md text-[#f1f2ef] font-medium tracking-wider px-8 py-3 rounded-full">
-                Apply Now
+                Reach Us
               </button>
             </Link>
             <Link href="/contact">
