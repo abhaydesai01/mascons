@@ -49,16 +49,6 @@ const page = () => {
             </button>
           </Link>
         </div>
-
-{/*         <div className="w-full lg:w-1/2 h-auto lg:h-screen">
-          <Image
-            src={AboutHeaderImage}
-            alt="About Us"
-            height={1000}
-            width={1000}
-            className="h-auto md:h-screen object-cover w-full"
-          />
-        </div> */}
       </div>
         {/* ── FOUNDERS SECTION ── */}
         <section className="max-w-7xl mx-auto px-4 py-12">
