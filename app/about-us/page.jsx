@@ -12,13 +12,13 @@ const founders = [
     name: "Gaurav Gupta",
     title: "Co-Founder",
     image: "/Gaurav.png", // now using public folder path
-    bio: `Gaurav Gupta brings over 15 years of leadership in payments, fintech, and digital currencies, having driven double-digit growth across diverse product lines and orchestrated two successful exits in payment processing and settlement. A seasoned product strategist, he guides initiatives from ideation through enterprise-scale implementation and has deep experience managing high-volume transaction platforms. Abhay is passionate about building long-term, strategic partnerships that drive mutual success and lasting impact.`,
+    bio: `Gaurav Gupta brings over 15 years of leadership in payments, fintech, and digital currencies, having driven double-digit growth across diverse product lines and orchestrated two successful exits in payment processing and settlement. A seasoned product strategist, he guides initiatives from ideation through enterprise-scale implementation and has deep experience managing high-volume transaction platforms. Gaurav is passionate about building long-term, strategic partnerships that drive mutual success and lasting impact.`,
   },
   {
     name: "Pankaj Kumar",
     title: "Co-Founder",
     image: "/pankaj.png", // now using public folder path
-    bio: `An MBA Grad. from James Cook University with 15+ nears of experience in fintech, driving innovation and growth across the industry
+    bio: `An MBA Grad. from James Cook University with 15+ years of experience in fintech, driving innovation and growth across the industry
 Founded and scaled two fintech startups to strategic exits, excelling in product development and sales
 Extensive network with leading banks and large-scale fintech clients, recognized as a trusted expert
 Honored among the Top 50 Most Influential Payment Professionals, with awards including Red Herring
