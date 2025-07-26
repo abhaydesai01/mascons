@@ -12,7 +12,7 @@ const founders = [
     name: "Gaurav Gupta",
     title: "Co-Founder",
     image: "/Gaurav.png", // now using public folder path
-    bio: `Gaurav Gupta brings over 15 years of leadership in payments, fintech, and digital currencies, having driven double-digit growth across diverse product lines and orchestrated two successful exits in payment processing and settlement. A seasoned product strategist, he guides initiatives from ideation through enterprise-scale implementation and has deep experience managing high-volume transaction platforms. Gaurav is passionate about building long-term, strategic partnerships that drive mutual success and lasting impact.`,
+    bio: `Gaurav Gupta brings over 15 years of leadership in payments, fintech, and digital currencies, having driven double-digit growth across diverse product lines and orchestrated two successful exits in payment processing and settlement. A seasoned product strategist, he guides initiatives from ideation through enterprise-scale implementation and has deep experience managing high-volume transaction platforms. Gaurav is passionate about building long-term, strategic partnerships that drive mutual success and lasting impact.`
   },
   {
     name: "Pankaj Kumar",
